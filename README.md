@@ -2,5 +2,5 @@
 
 ### a simple mockup design using HTML 5, CSS 3 and Javascript
 
-<img src="img/screenshot_1.png">
+<img src="img/screenshot1.png">
 
